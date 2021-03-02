@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
-
-* TODO: Describe initial release.
+## [0.0.1] - 2021-03-02
+ 
+* You don't need to worry because you forgot to delete print in console.
