@@ -1,7 +1,6 @@
 name: safeprint
 description: Safe your debug print
 version: 0.0.1
-author: Saddam Nur<muhammadsaddamnur@gmail.com>
 homepage: https://github.com/muhammadsaddamnur/safeprint
 
 environment:
